@@ -1,0 +1,3 @@
+variable "awsbucket" {
+  default = "riddhiterraformbucket"
+}
